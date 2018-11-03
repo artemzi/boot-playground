@@ -1,0 +1,16 @@
+# Log file
+*.log
+
+# Package Files #
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#Folders #
+/out
+/.idea
+/.gradle
+/build
+*.iml
