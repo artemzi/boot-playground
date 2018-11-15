@@ -14,3 +14,4 @@ $ curl http://localhost:8080/people/search/findByLastName?name=Baggins
 - `http://localhost:8080/people`
 - `http://localhost:8080/profile`
 - others (see `MvcConfig` class)
+- actuator/health, actuator/info, actuator
